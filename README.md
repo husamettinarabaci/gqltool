@@ -28,3 +28,7 @@ type <Your Class> {
   ...
 }
 ```
+
+```go
+go get -u github.com/husamettinarabaci/gqltool
+```
